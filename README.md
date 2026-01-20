@@ -1,4 +1,4 @@
-![gif](assets/michie-jkt48.gif)
+![gif](assets/adeline-wijaya-delynn-jkt48.gif)
 
 # 💫 About Me:
 Hello, I'm Insan! 👋  <br>Just a guy who enjoys coding, learning new tech, and breaking things (then fixing them again *lmao 😄)<br><br>- 🚀 Currently exploring: C++, ESP32, Python<br>- 🎯 Goal: Become a solid FrontEnd Engineer  <br>
